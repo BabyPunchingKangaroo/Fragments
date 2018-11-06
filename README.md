@@ -9,10 +9,4 @@ You can **download** and **play** the game [here](https://drive.google.com/open?
 > **Made with love,**
 > - Baby Punching Kangaroo 
 
-> **Members:**
-> - Scripting/Programming: Narosenla Longkumer<br>
-> - Level Design: Gautam Yadav<br>
-> - Level Modelling: Arpit Jain<br>
-
-This game was tested only on the developers systems. 
-**Contact**: 1311naro@gmail.com if you find any issues
+This game was tested only on the developers systems.
